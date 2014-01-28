@@ -1,3 +1,5 @@
 This contains things I learned yesterday.
 
-I learned how to do a for loop in Python. 
+I learned how to do a for loop in Python.
+
+I also learned that you can negative index in Python. 
